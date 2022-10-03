@@ -26,7 +26,7 @@ nav{
             list-style: none;
             a{
                 text-decoration: none;
-                margin: 30px;
+                margin: 20px;
                 font-size: 25px;
                 color: $textcolor;
                 @include responsive(tablet){
